@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.1940488
+  brandStrength: 0
+  lightness: 0.4050393
+  rhythmicContrast: 0.1957471
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+typography_spectrum: 0.05102038
+name: Mental Inventory
